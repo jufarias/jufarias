@@ -25,5 +25,5 @@
     
     ![Snake animation](https://github.com/jufarias/jufarias/blob/output/github-contribution-grid-snake.svg)
     
-    
+    </div>
     
