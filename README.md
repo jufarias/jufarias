@@ -1,6 +1,8 @@
 ##  👋 Oie, eu sou Juliana Farias!
-📖 Estou cursando Analise e Desenvolvimento de Sistemas pela UNINASSAU
-🌱 Atualmente também estou me dedicando aos estudos da linguagem Python, através do Curso em Vídeo
+📖 Graduanda em Analise e Desenvolvimento de Sistemas pela UNINASSAU
+
+🌱 Atualmente estudando Análise de Dados pela Edumi: Excel | SQL | Power BI | Python 
+
 💞️ Procuro novas experiências que me tragam conhecimentos únicos
 
 ##
